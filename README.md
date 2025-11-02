@@ -70,7 +70,7 @@ This repository features end-to-end analytics projects where I:
 Hi, I’m **Shreyash Gawas**, an aspiring **Data Analyst** passionate about exploring how data can shape better decisions and creative solutions.  
 
 📬 **Connect with me:**
-- [LinkedIn](www.linkedin.com/in/shreyash-gawas-72973b28b)
+- [LinkedIn](https://www.linkedin.com/in/shreyash-gawas-72973b28b/)
 - [Tableau Public](https://public.tableau.com/app/profile/shreyash.gawas/vizzes)
 
 
