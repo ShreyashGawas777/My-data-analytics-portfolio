@@ -21,8 +21,8 @@ This repository features end-to-end analytics projects where I:
 **Goal:** Analyze Goa’s tourism trends to uncover insights on tourist behavior, spending patterns, and local artisan visibility.
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://lnkd.in/gSrXycRC)  
-📄 **Project Report:** [`ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism)  
-📸 **Screenshots:** [`/screenshots`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/Screenshots/Goa Tourism Analysis Dashboard.png)
+📄 **Project Report:** ![`ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism)  
+📸 **Screenshots:** [`/screenshots`]( ./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/Screenshots/Goa Tourism Analysis Dashboard.png)
 
 **Key Highlights:**
 - Explored tourist demographics, spending patterns, and awareness sources.  
