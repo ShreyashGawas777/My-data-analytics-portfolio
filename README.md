@@ -48,6 +48,8 @@ This repository features end-to-end analytics projects where I:
 ### Customer Churn Analysis (End-to-End Tutorial Project)
 **Goal:** Build a complete Power BI report to analyze customer churn behavior for a bank dataset.
 
+🔗 **Live Dashboard:** [View on PowerBI](https://app.powerbi.com/links/3741HaTmI7?ctid=8e7fbc7e-2bad-4475-b826-dea54476b403&pbi_source=linkShare)  
+
 **Steps Covered:**
 1. Data Connection  
 2. Data Preparation & Modeling  
