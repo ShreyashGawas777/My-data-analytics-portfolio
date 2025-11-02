@@ -1,2 +1,82 @@
-# My-data-analytics-portfolio
-Portfolio: Tableau &amp; Power BI dashboards + case studies.
+# 🌟 Data Analytics Dashboards – Tableau & Power BI
+
+Welcome to my **Data Analytics Portfolio**, where I explore data storytelling through interactive dashboards built with **Tableau** and **Power BI**.  
+Each project here reflects my journey of transforming raw data into meaningful insights and compelling stories.
+
+---
+
+## 🧭 Overview
+
+This repository features end-to-end analytics projects where I:
+- Cleaned and prepared real-world datasets 🧹  
+- Designed interactive dashboards 📊  
+- Translated numbers into narratives 💡  
+- Shared actionable insights for decision-making 🎯  
+
+---
+
+## 📘 Tableau Dashboards
+
+### 1. Goa Tourism – Storytelling with Data
+**Goal:** Analyze Goa’s tourism trends to uncover insights on tourist behavior, spending patterns, and local artisan visibility.
+
+🔗 **Live Dashboard:** [View on Tableau Public](https://lnkd.in/gSrXycRC)  
+📄 **Project Report:** [`ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism)  
+📸 **Screenshots:** [`/screenshots`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/Screenshots/Goa Tourism Analysis Dashboard.png)
+
+**Key Highlights:**
+- Explored tourist demographics, spending patterns, and awareness sources.  
+- Identified correlations between age, expenditure, and revisit behavior.  
+- Focused on clarity, storytelling, and actionable insights.  
+
+---
+
+### 2. Students’ Social Media Addiction Dashboard
+**Goal:** Visualize social media usage and addiction levels among students to understand behavioral and health impacts.
+
+🔗 **Live Dashboard:** [View on Tableau Public](https://lnkd.in/gUZAP_6q)  
+📄 **Project Report:** [`report_summary.pdf`](./Tableau/Students_Social_Media_Addiction/report_summary.pdf)  
+📸 **Screenshots:** [`/screenshots`](./Tableau/Students_Social_Media_Addiction/screenshots)
+
+**Key Highlights:**
+- Analyzed social media usage trends by platform, gender, and study performance.  
+- Built metrics to assess addiction impact on well-being and academics.  
+- Designed an intuitive, color-balanced dashboard for readability.  
+
+---
+
+## 💻 Power BI Project
+
+### Customer Churn Analysis (End-to-End Tutorial Project)
+**Goal:** Build a complete Power BI report to analyze customer churn behavior for a bank dataset.
+
+**Steps Covered:**
+1. Data Connection  
+2. Data Preparation & Modeling  
+3. Data Analysis (DAX & Measures)  
+4. Data Visualization  
+5. Report Publishing  
+
+**Outcome:** A professional Power BI dashboard that helps identify churn drivers and retention strategies.
+
+---
+
+## 🧠 Learnings & Takeaways
+- Data is most powerful when it **tells a story**.  
+- Visualization is not just about charts — it’s about **clarity and context**.  
+- Great analytics blends **technical skill with design intuition**.  
+
+---
+
+## 🪶 About Me
+Hi, I’m **[Your Name]**, an aspiring **Data Analyst** passionate about exploring how data can shape better decisions and creative solutions.  
+
+📬 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Tableau Public](https://public.tableau.com/app/profile/yourprofile)
+- [Email](mailto:yourname@email.com)
+
+---
+
+⭐ *If you liked this portfolio, don’t forget to star this repo and share feedback!*
+
