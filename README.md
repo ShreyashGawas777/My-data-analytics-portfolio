@@ -21,8 +21,7 @@ This repository features end-to-end analytics projects where I:
 **Goal:** Analyze Goa’s tourism trends to uncover insights on tourist behavior, spending patterns, and local artisan visibility.
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://lnkd.in/gSrXycRC)  
-📄 **Project Report:** ![`ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism`](./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/ShreyashGawas_ProjectSummary_Interactive Tableau Dashboard on Goa Tourism)  
-📸 **Screenshots:** [`/screenshots`]( ./Tableau_Projects/Goa_Tourism_Storytelling_Dashboard/Screenshots/Goa Tourism Analysis Dashboard.png)
+
 
 **Key Highlights:**
 - Explored tourist demographics, spending patterns, and awareness sources.  
@@ -35,8 +34,7 @@ This repository features end-to-end analytics projects where I:
 **Goal:** Visualize social media usage and addiction levels among students to understand behavioral and health impacts.
 
 🔗 **Live Dashboard:** [View on Tableau Public](https://lnkd.in/gUZAP_6q)  
-📄 **Project Report:** [`report_summary.pdf`](./Tableau/Students_Social_Media_Addiction/report_summary.pdf)  
-📸 **Screenshots:** [`/screenshots`](./Tableau/Students_Social_Media_Addiction/screenshots)
+
 
 **Key Highlights:**
 - Analyzed social media usage trends by platform, gender, and study performance.  
@@ -69,12 +67,12 @@ This repository features end-to-end analytics projects where I:
 ---
 
 ## 🪶 About Me
-Hi, I’m **[Your Name]**, an aspiring **Data Analyst** passionate about exploring how data can shape better decisions and creative solutions.  
+Hi, I’m **Shreyash Gawas**, an aspiring **Data Analyst** passionate about exploring how data can shape better decisions and creative solutions.  
 
 📬 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Tableau Public](https://public.tableau.com/app/profile/yourprofile)
-- [Email](mailto:yourname@email.com)
+- [LinkedIn](www.linkedin.com/in/shreyash-gawas-72973b28b)
+- [Tableau Public](https://public.tableau.com/app/profile/shreyash.gawas/vizzes)
+
 
 ---
 
